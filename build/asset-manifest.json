@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Universal-Learning-Resources/static/css/main.2d2e4f9e.css",
-    "main.js": "/Universal-Learning-Resources/static/js/main.edfcd183.js",
-    "index.html": "/Universal-Learning-Resources/index.html",
-    "main.2d2e4f9e.css.map": "/Universal-Learning-Resources/static/css/main.2d2e4f9e.css.map",
-    "main.edfcd183.js.map": "/Universal-Learning-Resources/static/js/main.edfcd183.js.map"
+    "main.css": "/universal/static/css/main.2d2e4f9e.css",
+    "main.js": "/universal/static/js/main.17d4d237.js",
+    "index.html": "/universal/index.html",
+    "main.2d2e4f9e.css.map": "/universal/static/css/main.2d2e4f9e.css.map",
+    "main.17d4d237.js.map": "/universal/static/js/main.17d4d237.js.map"
   },
   "entrypoints": [
     "static/css/main.2d2e4f9e.css",
-    "static/js/main.edfcd183.js"
+    "static/js/main.17d4d237.js"
   ]
 }
